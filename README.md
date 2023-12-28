@@ -24,4 +24,4 @@
 - **Scikit-learn:** version 0.24.2
 
 ## Contact
-Created by [@Prachi Sonavane]
+Created by [@Prachi Sonavane] - feel free to contact me!
